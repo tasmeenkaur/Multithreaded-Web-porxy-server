@@ -1,0 +1,318 @@
+Host name is : Tasmeen-PC Host Address is : 169.254.149.210 
+Received connection from ('127.0.0.1', 52229)
+Length of user request: 1700 bytes 
+, 52230)
+Received connection from ('127.0.0.1', 52231)
+Response message received: GET /www.stackoverflow.com HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : www.stackoverflow.com
+ port is: 8080
+ File NOT found in cache!!! 
+Bytes sent from proxy to server: 44bytes 
+Bytes sent from server to proxy: 684bytes 
+Bytes sent from proxy to client: 684bytes 
+Received connection from ('127.0.0.1', 52245)
+Length of user request: 1693 bytes 
+Response message received: GET /www.amazon.com HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : www.amazon.com
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 375356bytes 
+Time elapsed: 10.9549999237
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Length of user request: 1636 bytes 
+Response message received: GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/www.amazon.com
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : favicon.ico
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 546bytes 
+Time elapsed: 12.6809999943
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Length of user request: 1696 bytes 
+Response message received: GET /www.proxysite.com HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : www.proxysite.com
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 623bytes 
+Time elapsed: 13.231000185
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Received connection from ('127.0.0.1', 52283)
+Length of user request: 1639 bytes 
+Response message received: GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/www.proxysite.com
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : favicon.ico
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 546bytes 
+Time elapsed: 0.523000001907
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Received connection from ('127.0.0.1', 52290)
+Length of user request: 1694 bytes 
+Received connection from ('127.0.0.1', 52291)
+Response message received: GET /www.youtube.com HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : www.youtube.com
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 672bytes 
+Time elapsed: 0.0510001182556
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Received connection from ('127.0.0.1', 52292)
+Length of user request: 1637 bytes 
+Response message received: GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/www.youtube.com
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : favicon.ico
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 546bytes 
+Time elapsed: 0.581000089645
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Length of user request: 1696 bytes 
+Response message received: GET /www.proxysite.com HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : www.proxysite.com
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 623bytes 
+Time elapsed: 6.06699991226
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Received connection from ('127.0.0.1', 52296)
+Length of user request: 1639 bytes 
+Response message received: GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/www.proxysite.com
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : favicon.ico
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 546bytes 
+Time elapsed: 0.416000127792
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Received connection from ('127.0.0.1', 52306)
+Length of user request: 1693 bytes 
+Received connection from ('127.0.0.1', 52307)
+Response message received: GET /www.github.com HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : www.github.com
+ port is: 8080
+ File NOT found in cache!!! 
+Bytes sent from proxy to server: 37bytes 
+Bytes sent from server to proxy: 107bytes 
+Bytes sent from proxy to client: 107bytes 
+time elapsed: 0.161000013351
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Received connection from ('127.0.0.1', 52334)
+Length of user request: 1696 bytes 
+Response message received: GET /www.proxysite.com HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : www.proxysite.com
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 623bytes 
+Time elapsed: 3.36500000954
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Length of user request: 1639 bytes 
+Response message received: GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/www.proxysite.com
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : favicon.ico
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 546bytes 
+Time elapsed: 3.68700003624
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+Received connection from ('127.0.0.1', 52349)
+Length of user request: 1682 bytes 
+Response message received: GET /wwj HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : wwj
+ port is: 8080
+ File NOT found in cache!!! 
+Received connection from ('127.0.0.1', 52350)
+HTTP/1.1 404 not found
+time elapsed: 2.28800010681
+Length of user request: 1625 bytes 
+Response message received: GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Accept: */*
+Referer: http://localhost:8080/wwj
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: nommanommanomma=!/FqW9R8OhxAUIWDkshTA+5ziHeqN/m2+TaDVvQAzGAb7Kt/M2vL10hjCkEdDePK6aTYWkG1T577EwQ==; PHPSESSID=jgjdcihjtp6p07f0jmusr3hus0; __utmz=111872281.1459487754.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=111872281.372598982.1459487754.1459487754.1459499284.2; __utmc=111872281; csm-hit=1VGQWFD9SA9K8E20D724+s-1VGQWFD9SA9K8E20D724|1459499458168; __utmb=111872281; _ga=GA1.1.372598982.1459487754; _tmy3_session=BAh7DUkiD3Nlc3Npb25faWQGOgZFRkkiJTVkZDBkNmZjZWYwMWRmNzU5MWI4MjMyMjlmZjM2MjczBjsAVEkiDmZvb3RzdGVwcwY7AEZvOg5Gb290c3RlcHMHOg9AZm9vdHN0ZXBzWwA6D0BsYXN0X3BhZ2V7CDoLbWV0aG9kIghHRVQ6CHVyaUkiHGh0dHA6Ly93d3cudHJ5bXl1aS5jb20vBjsARjoLcGFyYW1zQzotQWN0aXZlU3VwcG9ydDo6SGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sHSSIPY29udHJvbGxlcgY7AEZJIglzaXRlBjsAVEkiC2FjdGlvbgY7AEZJIgppbmRleAY7AFRJIgpzdGFydAY7AEZJdToJVGltZQ0oDB2AK4tR4Ao6C0Bfem9uZUkiCFBEVAY7AFQ6DW5hbm9fbnVtaQIKAzoNbmFub19kZW5pBjoNc3VibWljcm8iB3eAOgtvZmZzZXRp%2FpCdSSIObG9nX25vdGVzBjsARlsHSSIQbmV3X3Nlc3Npb24GOwBGSSIUaXA6NzYuMTg1Ljc3LjM4BjsARkkiEHRtcF91c2VyX2lkBjsARmn9sfr9SSITYWN0aXZpdHlfY291bnQGOwBGaQZJIhBfY3NyZl90b2tlbgY7AEZJIjFxc21TYy96NGRSRm9CdkZKaG5QVnhac3lkeWtDK1VIYUhnNjVrc2pHdzNvPQY7AEZJIhJsYXN0X2FjdGl2aXR5BjsARkl1Ow0NKAwdgPzFVuAKOw5JIghQRFQGOwBUOw9pAlMDOxBpBjsRIgeFEDsSaf6QnQ%3D%3D--71504a1161dc4831ada53129fe0060012feaa236
+
+ 
+Requested url is : favicon.ico
+ port is: 8080
+ File exist in Cache 
+HTTP/1.0 200 OK
+Content-Type:text/html
+Bytes sent from proxy to client: 546bytes 
+Time elapsed: 2.70700001717
+-------------------------------------------------------------- 
+ --------------------------------------------
+
+time elapsed: 46.2200000286
+-------------------------------------------------------------- 
+ --------------------------------------------
+
