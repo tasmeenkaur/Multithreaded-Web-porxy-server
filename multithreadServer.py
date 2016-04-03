@@ -18,7 +18,7 @@ def main():
         print 'Socket creation successful!!!'
     except socket.error as e:
         print 'socket creation unsuccessful with error %s' % (e)
-    #reference: https://docs.python.org/2/howto/sockets.html, http://pythontips.com/2013/08/06/python-socket-network-programming/
+    
     # binding server socket
     tcpSerSock.bind(('', port))
     # listening queue up as many as 5 connect requests
@@ -42,13 +42,13 @@ def main():
     #close server socket
     tcpSerSock.close()
 #proxy thread
-#reference: http://luugiathuy.com/2011/03/simple-web-proxy-python/
+
 def proxyThread(tcpCliSock, addr):
-    #reference: http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-execution
+    
     startTime = time.time()
     fileExist = "false"
     #receiving request from client
-    # reference: http://stackoverflow.com/questions/289035/receiving-data-over-a-python-socket
+    
     response = tcpCliSock.recv(4096)
     #fetching the length
     responseLen = len(response)
@@ -92,7 +92,7 @@ def proxyThread(tcpCliSock, addr):
         for data in outputdata:
             response += data
         print "response: ",response
-        #reference: http://stackoverflow.com/questions/289035/receiving-data-over-a-python-socket
+        
         tcpCliSock.send(response)
         #fetching the length of response
         responseSentBytes = len(response)
@@ -100,7 +100,7 @@ def proxyThread(tcpCliSock, addr):
         logFile.write("Bytes sent from proxy to client: "+str(responseSentBytes)+"bytes \n")
         logFile.close()
         print "Read from cache!!!"
-        #reference: http://stackoverflow.com/questions/1557571/how-to-get-time-of-a-python-program-execution
+        
         endTime = time.time()
         finalTime = endTime - startTime
         print "Time elapsed: ",finalTime
@@ -126,7 +126,7 @@ def proxyThread(tcpCliSock, addr):
                 # connecting to port 80
                 c.connect((hostn, 80))
                 print "connect to:", hostn, port
-                #reference for generating request : http://stackoverflow.com/questions/27342385/cache-a-http-get-request-in-python-sockets
+                
                 request = b"GET / HTTP/1.1\nHost: " + hostn + "\n\n"
                 # sending request to server
                 c.send(request)
@@ -167,7 +167,7 @@ def proxyThread(tcpCliSock, addr):
             except socket.error as err:
                 print "illegal request"
                 # sending 404 not found
-                # reference: http://stackoverflow.com/questions/19485166/exception-not-handled-ioerror
+                
                 tcpCliSock.send('HTTP/1.1 404 not found\r\n')
                 # logging the message
                 logFile = open("log.txt", "a")
@@ -184,7 +184,7 @@ def proxyThread(tcpCliSock, addr):
                 sys.exit(1)
         else:
             # HTTP response message for file not found
-            # reference: http://stackoverflow.com/questions/19485166/exception-not-handled-ioerror
+            
             tcpCliSock.send('HTTP/1.1 404 not found\r\n')
             # logging the message
             logFile = open("log.txt", "a")
